@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T11:08:27.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8ANqJL0aToxf2UbiuNV4" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-14T11:15:01.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pbmxs_dDM8Q8efuYcyEW" version="22.1.0" type="github" pages="4">
   <diagram name="SKATER HOME PAGE DESKTOP" id="HCEqrU8igU5yNVbFq01C">
-    <mxGraphModel dx="659" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3200" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RkChoPOBzC0dZ9-PY_Tz" name="ADMIN DESKTOP">
-    <mxGraphModel dx="2240" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3733" dy="2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,6 +223,9 @@
         </mxCell>
         <mxCell id="5zcGuHqIu8oFOfUK9Ryz-1" value="UPDATE PATCH DETAILS" style="whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;fontColor=#E6E6E6;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="800" y="800" width="660" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcGlk_VIYqFh-JN3uuB3-1" value="LOG-IN/OUT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#4D4D4D;mainText=;buttonStyle=round;fontSize=12;fontStyle=1;fillColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="55" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
