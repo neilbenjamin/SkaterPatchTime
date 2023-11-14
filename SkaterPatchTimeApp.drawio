@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T10:57:55.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fs6vt4njgj6qYbQ_NXwY" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-14T11:02:14.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="49L_dhqo3M5DT5Pyp3o8" version="22.1.0" type="github" pages="4">
   <diagram name="SKATER HOME PAGE DESKTOP" id="HCEqrU8igU5yNVbFq01C">
     <mxGraphModel dx="2489" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_89JdAcQdwftwHwftety" name="SKATER HOME PAGE MOBILE">
-    <mxGraphModel dx="1120" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,37 +103,43 @@
           <mxGeometry x="1070" y="200" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-2" value="PATCHES REMAINING" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="430" width="220" height="10" as="geometry" />
+          <mxGeometry x="1070" y="414" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-4" value="3" style="whiteSpace=wrap;html=1;fontColor=#007FFF;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="440" width="220" height="26" as="geometry" />
+          <mxGeometry x="1070" y="424" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-12" value="DATE PURCHASED" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="480" width="220" height="10" as="geometry" />
+          <mxGeometry x="1070" y="464" width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-13" value="21 MARCH 2023" style="whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="490" width="220" height="26" as="geometry" />
+          <mxGeometry x="1070" y="474" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-14" value="21 SEPTEMBER 2023" style="whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="640" width="220" height="28" as="geometry" />
+          <mxGeometry x="1070" y="624" width="220" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-15" value="EXPIRES" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="630" width="220" height="10" as="geometry" />
+          <mxGeometry x="1070" y="614" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-20" value="29 MARCH 2023" style="whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="540" width="220" height="27" as="geometry" />
+          <mxGeometry x="1070" y="524" width="220" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-21" value="DATE USED" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="530" width="220" height="10" as="geometry" />
+          <mxGeometry x="1070" y="514" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-22" value="ID: 1" style="whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="590" width="220" height="27" as="geometry" />
+          <mxGeometry x="1070" y="574" width="220" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QO__EjYD_PHOJB01iosn-23" value="PATCH CARD NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="580" width="220" height="10" as="geometry" />
+          <mxGeometry x="1070" y="564" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IhhQu4BCyFMsvsEwtCy0-3" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="1">
           <mxGeometry x="1070" y="370" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="48D-6b_hcBixsqO1-a0t-1" value="PURCHASE INV NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="464" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="48D-6b_hcBixsqO1-a0t-2" value="INV NO.1" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="474" width="110" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -219,7 +225,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN MOBILE">
-    <mxGraphModel dx="1244" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,52 +236,61 @@
           <mxGeometry x="980" y="180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
-          <mxGeometry x="740" y="210" width="220" height="180" as="geometry" />
+          <mxGeometry x="740" y="200" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-4" value="SKATER NAME" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="1">
-          <mxGeometry x="740" y="190" width="70" height="20" as="geometry" />
+          <mxGeometry x="740" y="180" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-5" value="COACH" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="1">
-          <mxGeometry x="815" y="190" width="70" height="20" as="geometry" />
+          <mxGeometry x="815" y="180" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-6" value="WP NO." style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="1">
-          <mxGeometry x="890" y="190" width="70" height="20" as="geometry" />
+          <mxGeometry x="890" y="180" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-7" value="SKATER IMG" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="740" y="220" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-8" value="PATCHES REMAINING" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="740" y="450" width="220" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-9" value="3" style="whiteSpace=wrap;html=1;fontColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="740" y="460" width="220" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-10" value="DATE PURCHASED" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="740" y="500" width="220" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-11" value="21 MARCH 2023" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="740" y="510" width="220" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-12" value="21 SEPTEMBER 2023" style="whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="740" y="660" width="220" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-13" value="EXPIRES" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="740" y="650" width="220" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-14" value="29 MARCH 2023" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="740" y="560" width="220" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-15" value="DATE USED" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="740" y="550" width="220" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-16" value="ID: 1" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="740" y="610" width="220" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="uhfoESPZrVramuS0g4Nw-17" value="PATCH CARD NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="740" y="600" width="220" height="10" as="geometry" />
+          <mxGeometry x="740" y="210" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-18" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="1">
-          <mxGeometry x="740" y="390" width="220" height="30" as="geometry" />
+          <mxGeometry x="740" y="380" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-1" value="PATCHES REMAINING" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="422" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-2" value="3" style="whiteSpace=wrap;html=1;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="432" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-3" value="DATE PURCHASED" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="472" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-4" value="21 MARCH 2023" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="740" y="482" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-5" value="21 SEPTEMBER 2023" style="whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="632" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-6" value="EXPIRES" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="622" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-7" value="29 MARCH 2023" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="740" y="532" width="220" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-8" value="DATE USED" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="522" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-9" value="ID: 1" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="740" y="582" width="220" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-10" value="PATCH CARD NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="572" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-11" value="PURCHASE INV NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="850" y="472" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-12" value="INV NO.1" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="482" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RZ8jCcjg-CZRsoFbrS3F-18" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="1">
+          <mxGeometry x="740" y="670" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
