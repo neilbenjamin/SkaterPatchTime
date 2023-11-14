@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T11:02:14.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="49L_dhqo3M5DT5Pyp3o8" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-14T11:04:06.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iDRLPfkAGyHq6o-erRx-" version="22.1.0" type="github" pages="4">
   <diagram name="SKATER HOME PAGE DESKTOP" id="HCEqrU8igU5yNVbFq01C">
     <mxGraphModel dx="2489" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_89JdAcQdwftwHwftety" name="SKATER HOME PAGE MOBILE">
-    <mxGraphModel dx="700" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="48D-6b_hcBixsqO1-a0t-2" value="INV NO.1" style="whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="1180" y="474" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5_QX3MQr_j26qyz6mZNL-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.options;fillColor=#222222;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="180" width="12" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -225,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN MOBILE">
-    <mxGraphModel dx="1018" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,6 +294,9 @@
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-18" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="1">
           <mxGeometry x="740" y="670" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtpUBaeSAMmQ8fUlPCvD-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.options;fillColor=#222222;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="12" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
