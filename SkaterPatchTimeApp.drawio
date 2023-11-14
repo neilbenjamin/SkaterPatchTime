@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T09:08:10.534Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8xNGj06DSQskQD19j_a_" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-14T09:08:49.842Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ql6m5aYSsQV1kinWRYEo" version="22.1.0" type="github" pages="3">
   <diagram name="SKATER HOME PAGE DESKTOP" id="HCEqrU8igU5yNVbFq01C">
     <mxGraphModel dx="3200" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RkChoPOBzC0dZ9-PY_Tz" name="ADMIN DESKTOP">
-    <mxGraphModel dx="1867" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2240" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,9 @@
           <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
             <mxPoint x="-15" y="-5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lExbO_Z6TUVmcX0FvSxB-44" value="UPDATE SKATER DETAILS" style="whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;fontColor=#E6E6E6;fillColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="100" y="790" width="550" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
