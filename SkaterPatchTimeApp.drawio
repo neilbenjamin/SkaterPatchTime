@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T18:59:57.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ccntBhwyrCBn2NUkuSPF" version="22.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:03:36.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="D6lsk2EmYzXsEAiAkyrr" version="22.1.2" type="github" pages="7">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
     <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cstXw_fMyLSabRQClBFk" name="SKATERPATCHTIME SIGN IN MOBILE">
-    <mxGraphModel dx="2232" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,9 +160,6 @@
         <mxCell id="otV-S1gYkVBKWa6xQyej-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;SIGN IN&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="653" y="400" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="otV-S1gYkVBKWa6xQyej-30" value="SIGN UP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="767.5" y="709.09" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="otV-S1gYkVBKWa6xQyej-31" value="New User" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="653" y="433.0021034077556" width="70" height="33.58793576184881" as="geometry" />
         </mxCell>
@@ -191,19 +188,22 @@
           <mxGeometry x="655" y="667" width="285" height="25" as="geometry" />
         </mxCell>
         <mxCell id="otV-S1gYkVBKWa6xQyej-40" value="Skater" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="1" vertex="1">
-          <mxGeometry x="655" y="700" width="40" height="20" as="geometry" />
+          <mxGeometry x="776.5" y="440.00000000000006" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="otV-S1gYkVBKWa6xQyej-41" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="1" vertex="1">
-          <mxGeometry x="708" y="700.0021621621622" width="15" height="14.189189189189191" as="geometry" />
+          <mxGeometry x="826.5" y="442.70216216216227" width="15" height="14.189189189189191" as="geometry" />
         </mxCell>
         <mxCell id="otV-S1gYkVBKWa6xQyej-42" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="1" vertex="1">
-          <mxGeometry x="708" y="724.9021621621622" width="15" height="14.189189189189191" as="geometry" />
+          <mxGeometry x="915" y="442.7021621621622" width="15" height="14.189189189189191" as="geometry" />
         </mxCell>
         <mxCell id="otV-S1gYkVBKWa6xQyej-43" value="Admin" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="1" vertex="1">
-          <mxGeometry x="655" y="722" width="40" height="20" as="geometry" />
+          <mxGeometry x="870" y="439.8" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="otV-S1gYkVBKWa6xQyej-44" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="653" y="463.29" width="511" height="10" as="geometry" />
+          <mxGeometry x="653" y="463.29" width="287" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kXbAqR4Ow7lExJaeNcy0-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;SIGN UP&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="709.09" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RkChoPOBzC0dZ9-PY_Tz" name="ADMIN SIGNED-IN DESKTOP">
-    <mxGraphModel dx="1339" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,7 +550,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN SIGNED-IN MOBILE">
-    <mxGraphModel dx="3348" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
