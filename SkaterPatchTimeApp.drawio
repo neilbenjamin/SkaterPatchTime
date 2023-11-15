@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T19:19:48.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SXrOGDOPG8EGrHKaFcaI" version="22.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:22:08.339Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bZdlvsprhZiTPIaQImtN" version="22.1.2" type="github" pages="9">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
     <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
         <mxCell id="fauHg8BjW_xHKOsYxEgr-2" value="" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="730" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="fauHg8BjW_xHKOsYxEgr-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;WELCOME {USER}&lt;br&gt;&lt;br&gt;PLEASE ENTER YOUR DETAILS&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="fauHg8BjW_xHKOsYxEgr-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;WELCOME {USER}&lt;br&gt;&lt;br&gt;PLEASE ENTER YOUR SKATER DETAILS&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="690" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
@@ -384,7 +384,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ENTER ADMIN DETAILS MOBILE" id="zIhgyozT1UBIiW4UI7Fv">
-    <mxGraphModel dx="595" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1785" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="XMQoEgxunACBngGzse0t-0" />
         <mxCell id="XMQoEgxunACBngGzse0t-1" parent="XMQoEgxunACBngGzse0t-0" />
@@ -395,7 +395,7 @@
           <mxGeometry x="690" y="160" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XMQoEgxunACBngGzse0t-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;SUBMITT&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="XMQoEgxunACBngGzse0t-1">
-          <mxGeometry x="655" y="709.09" width="65" height="30" as="geometry" />
+          <mxGeometry x="768" y="670" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XMQoEgxunACBngGzse0t-5" value="Admin Name" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="XMQoEgxunACBngGzse0t-1">
           <mxGeometry x="655" y="250" width="295" height="20" as="geometry" />
