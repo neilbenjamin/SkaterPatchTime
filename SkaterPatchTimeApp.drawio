@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T22:39:41.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5hDihrmbUFK8_Izt7jPi" version="22.1.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-11-15T22:40:07.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Z5_e7Ne7M7vw67UhTyxE" version="22.1.2" type="github" pages="19">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1281,7 +1281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CREATE PATCH DETAILS_ADMIN_USER_DESKTOP" id="-nLgaoEESq4yUSroAlOb">
-    <mxGraphModel dx="2267" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="8WUFVjIT4J0gQv-z1Yn4-0" />
         <mxCell id="8WUFVjIT4J0gQv-z1Yn4-1" parent="8WUFVjIT4J0gQv-z1Yn4-0" />
@@ -1302,7 +1302,7 @@
             <mxPoint x="10" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WUFVjIT4J0gQv-z1Yn4-7" value="UPDATE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="8WUFVjIT4J0gQv-z1Yn4-5">
+        <mxCell id="8WUFVjIT4J0gQv-z1Yn4-7" value="UPDATE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#009900;fontSize=16;fontStyle=1;" vertex="1" parent="8WUFVjIT4J0gQv-z1Yn4-5">
           <mxGeometry y="1" width="90" height="39" relative="1" as="geometry">
             <mxPoint x="50" y="-230" as="offset" />
           </mxGeometry>
