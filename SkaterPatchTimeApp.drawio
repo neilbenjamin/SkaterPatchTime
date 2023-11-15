@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T22:40:07.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Z5_e7Ne7M7vw67UhTyxE" version="22.1.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-11-15T22:40:29.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uPanGVBQAmUj7qGfCmw3" version="22.1.2" type="github" pages="19">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1271,7 +1271,7 @@
         <mxCell id="5pe_zS9nmgeZci0am062-13" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="5pe_zS9nmgeZci0am062-1">
           <mxGeometry x="662" y="530" width="295" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5pe_zS9nmgeZci0am062-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;UPDATE SKATER DETAILS&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#009900;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="5pe_zS9nmgeZci0am062-1">
+        <mxCell id="5pe_zS9nmgeZci0am062-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;CREATE SKATER DETAILS&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#009900;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="5pe_zS9nmgeZci0am062-1">
           <mxGeometry x="659" y="590" width="301" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5pe_zS9nmgeZci0am062-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;FIND SKATER&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#0066CC;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="5pe_zS9nmgeZci0am062-1">
@@ -1302,7 +1302,7 @@
             <mxPoint x="10" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WUFVjIT4J0gQv-z1Yn4-7" value="UPDATE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#009900;fontSize=16;fontStyle=1;" vertex="1" parent="8WUFVjIT4J0gQv-z1Yn4-5">
+        <mxCell id="8WUFVjIT4J0gQv-z1Yn4-7" value="CREATE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#009900;fontSize=16;fontStyle=1;" vertex="1" parent="8WUFVjIT4J0gQv-z1Yn4-5">
           <mxGeometry y="1" width="90" height="39" relative="1" as="geometry">
             <mxPoint x="50" y="-230" as="offset" />
           </mxGeometry>
