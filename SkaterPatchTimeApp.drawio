@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T22:13:07.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WG5paKp5EkwimxIucgZo" version="22.1.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-11-15T22:15:07.600Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7EcI65w1wVS8U0J6Nw9P" version="22.1.2" type="github" pages="16">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -797,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN SIGNED-IN MOBILE">
-    <mxGraphModel dx="594" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -956,7 +956,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ENTER SKATER DETAILS_PG_2_ADMIN_USER_MOBILE" id="HHbhDkfeMmJqjuk6GOyV">
-    <mxGraphModel dx="1781" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="RQzwFGUvvpl3VicwHBfO-0" />
         <mxCell id="RQzwFGUvvpl3VicwHBfO-1" parent="RQzwFGUvvpl3VicwHBfO-0" />
@@ -964,7 +964,7 @@
           <mxGeometry x="610" y="20" width="380" height="890" as="geometry" />
         </mxCell>
         <mxCell id="RQzwFGUvvpl3VicwHBfO-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;WELCOME {USER}&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PLEASE UPDATE SKATER PATCH DETAILS&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;fontSize=11;" vertex="1" parent="RQzwFGUvvpl3VicwHBfO-1">
-          <mxGeometry x="690" y="140" width="220" height="75" as="geometry" />
+          <mxGeometry x="690" y="160" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="vPcOdZO142YCZ6f5xK0H-21" value="Coach Name" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="RQzwFGUvvpl3VicwHBfO-1">
           <mxGeometry x="662" y="250" width="295" height="20" as="geometry" />
@@ -996,8 +996,11 @@
         <mxCell id="vPcOdZO142YCZ6f5xK0H-32" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="RQzwFGUvvpl3VicwHBfO-1">
           <mxGeometry x="662" y="530" width="295" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="KBXuzZ_nrOJCl6n6XiH_-0" value="UPDATE SKATER DETAIL" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#009900;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="RQzwFGUvvpl3VicwHBfO-1">
+        <mxCell id="KBXuzZ_nrOJCl6n6XiH_-0" value="UPDATE SKATER DETAILS" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#009900;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="RQzwFGUvvpl3VicwHBfO-1">
           <mxGeometry x="662" y="590" width="298" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5qWFFw8R9cBK3EOAh1ph-0" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;FIND SKATER&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#0066CC;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="RQzwFGUvvpl3VicwHBfO-1">
+          <mxGeometry x="662" y="650" width="298" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
