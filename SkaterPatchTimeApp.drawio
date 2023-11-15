@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T18:42:09.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bKnHaUJpCSjVwZmuZMUh" version="22.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-15T18:44:44.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cc655osoewJmwaUP5sLH" version="22.1.2" type="github" pages="6">
   <diagram name="SKATER SIGNED IN HOME PAGE DESKTOP" id="HCEqrU8igU5yNVbFq01C">
     <mxGraphModel dx="3826" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -441,7 +441,7 @@
         <mxCell id="nOPJcNYl-wG0937G4Sr3-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="610" y="20" width="380" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="JGe_yi7P02y8x0LT7j2n-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;WELCOME TO SKATERPATCH&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PLEASE SIGN IN OR REGOSTER AS A NEW SKATER&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="JGe_yi7P02y8x0LT7j2n-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;WELCOME TO SKATER PATCH&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PLEASE SIGN IN OR REGISTER&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="690" y="160" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="otV-S1gYkVBKWa6xQyej-23" value="Sign In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
