@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T22:42:56.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XSN8O1mIWRFzwkZhILqI" version="22.1.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-11-15T22:43:41.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5BpKr5yU9XYY6rrM_jXK" version="22.1.2" type="github" pages="19">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -676,7 +676,7 @@
         <mxCell id="uV0PIJ5GB2BlgiiMyogf-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;WELCOME {USER}&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PLEASE SELECT AN OPTION&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;fontSize=11;" vertex="1" parent="uV0PIJ5GB2BlgiiMyogf-1">
           <mxGeometry x="690" y="190" width="220" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="jqzXPf2eU2e_A5mTEnMY-0" value="FIND SKATER" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#0066CC;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="uV0PIJ5GB2BlgiiMyogf-1">
+        <mxCell id="jqzXPf2eU2e_A5mTEnMY-0" value="FIND SKATER" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#00CC00;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="uV0PIJ5GB2BlgiiMyogf-1">
           <mxGeometry x="690" y="560" width="227" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dl8IIIK-TsKdmCRKyVGp-0" value="CREATE NEW SKATER" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fontColor=#E6E6E6;fillColor=#0066CC;rounded=1;" vertex="1" parent="uV0PIJ5GB2BlgiiMyogf-1">
@@ -710,7 +710,7 @@
             <mxPoint x="10" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lXlFiA-oHEJLLCimTby6-0" value="FIND SKATER" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#0066CC;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="aYr7bQVc0ZCk50IuNfUV-5">
+        <mxCell id="lXlFiA-oHEJLLCimTby6-0" value="FIND SKATER" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#00CC00;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="aYr7bQVc0ZCk50IuNfUV-5">
           <mxGeometry x="55" y="80" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lXlFiA-oHEJLLCimTby6-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CREATE NEW SKATER&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fontColor=#E6E6E6;fillColor=#0066CC;rounded=1;" vertex="1" parent="aYr7bQVc0ZCk50IuNfUV-5">
@@ -720,7 +720,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RkChoPOBzC0dZ9-PY_Tz" name="ADMIN SIGNED-IN DESKTOP">
-    <mxGraphModel dx="959" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
