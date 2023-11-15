@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T21:41:31.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MADuzjBdRG8o0KvlSI3w" version="22.1.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-11-15T21:41:44.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7jOrKDsxMjBrDGX7Uzt1" version="22.1.2" type="github" pages="14">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -412,7 +412,7 @@
         <mxCell id="_lmvWrelcx3DangqbC46-42" value="WP REG. NO" style="whiteSpace=wrap;html=1;fontSize=21;fontColor=#E6E6E6;fillColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="480" y="130" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iei1-5rY5IGHk8WnavLO-1" value="UPDATE SKATER DETAILS" style="whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;fontColor=#E6E6E6;fillColor=#0066CC;" parent="1" vertex="1">
+        <mxCell id="iei1-5rY5IGHk8WnavLO-1" value="UPDATE SKATER DETAILS" style="whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;fontColor=#E6E6E6;fillColor=#0066CC;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="800" width="550" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HYK4aZDeQJomLeBh66Bq-1" value="3" style="whiteSpace=wrap;html=1;fontSize=71;fontColor=#007FFF;" parent="1" vertex="1">
