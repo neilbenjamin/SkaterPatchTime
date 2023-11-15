@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T22:15:35.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k1xb5JS7Zhgslop77_Ch" version="22.1.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-11-15T22:16:25.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8MCYGHyd1v6MGEvVPa5V" version="22.1.2" type="github" pages="16">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -881,7 +881,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="ENTER SKATER DETAILS_PG_1_ADMIN_USER_MOBILE" id="4Bys3EL2mcDq0CVo_ZG5">
+  <diagram name="UPDATE SKATER DETAILS_PG_1_ADMIN_USER_MOBILE" id="4Bys3EL2mcDq0CVo_ZG5">
     <mxGraphModel dx="1134" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="K3Ko0BhGxozewCJH_qvk-0" />
@@ -955,8 +955,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="ENTER SKATER DETAILS_PG_2_ADMIN_USER_MOBILE" id="HHbhDkfeMmJqjuk6GOyV">
-    <mxGraphModel dx="1134" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+  <diagram name="UPDATE SKATER DETAILS_PG_2_ADMIN_USER_MOBILE" id="HHbhDkfeMmJqjuk6GOyV">
+    <mxGraphModel dx="1386" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="RQzwFGUvvpl3VicwHBfO-0" />
         <mxCell id="RQzwFGUvvpl3VicwHBfO-1" parent="RQzwFGUvvpl3VicwHBfO-0" />
