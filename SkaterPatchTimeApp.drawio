@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T19:29:51.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k2zh3Ni-59eN7Yb1F7lG" version="22.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:31:13.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RYG2eq0wWkYAOs9qL3dB" version="22.1.2" type="github" pages="10">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
     <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -384,7 +384,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ENTER ADMIN DETAILS DESKTOP" id="sO-zes_GCcb0OUqD3xXA">
-    <mxGraphModel dx="1164" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-0" />
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-1" parent="PEg8DE_EBH0NYNgaO_wX-0" />
@@ -402,22 +402,22 @@
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-6" value="Admin Name" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="40" as="offset" />
+            <mxPoint x="74" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-7" value="{john}" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="60" as="offset" />
+            <mxPoint x="74" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-8" value="Admin Surname" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="95" as="offset" />
+            <mxPoint x="74" y="100" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-9" value="{doe}&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="115" as="offset" />
+            <mxPoint x="74" y="120" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-10" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
@@ -427,67 +427,47 @@
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-11" value="SUBMIT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
-            <mxPoint x="10" y="-160" as="offset" />
+            <mxPoint x="80" y="-280" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-12" value="Supervisor Name&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="213" as="offset" />
+            <mxPoint x="74" y="213" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-13" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="233" as="offset" />
+            <mxPoint x="74" y="233" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-14" value="Contact&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="273" as="offset" />
+            <mxPoint x="74" y="270" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-15" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="293" as="offset" />
+            <mxPoint x="74" y="290" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-16" value="On Duty - Shift" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="330" as="offset" />
+            <mxPoint x="74" y="328" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-17" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="350" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PEg8DE_EBH0NYNgaO_wX-18" value="Date of Birth" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
-          <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="400" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PEg8DE_EBH0NYNgaO_wX-19" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
-          <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="420" as="offset" />
+            <mxPoint x="74" y="348" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-20" value="Admin Role" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="154" as="offset" />
+            <mxPoint x="74" y="150" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-21" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="174" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PEg8DE_EBH0NYNgaO_wX-22" value="Upload Image" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
-          <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="470" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PEg8DE_EBH0NYNgaO_wX-23" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-5">
-          <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="490" as="offset" />
+            <mxPoint x="74" y="170" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
