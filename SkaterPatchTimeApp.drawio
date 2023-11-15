@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T19:35:39.840Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="t715fjiFxpKe7YA134c8" version="22.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:37:14.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iz6hMykaL0CnL77d9GSF" version="22.1.2" type="github" pages="10">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
     <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -388,7 +388,7 @@
       <root>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-0" />
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-1" parent="PEg8DE_EBH0NYNgaO_wX-0" />
-        <mxCell id="PEg8DE_EBH0NYNgaO_wX-2" value="LANDING PAGE/REGISTER/SIGN-IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-1">
+        <mxCell id="PEg8DE_EBH0NYNgaO_wX-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-1">
           <mxGeometry width="1600" height="900" as="geometry" />
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-3" value="" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-1">
@@ -755,33 +755,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN SIGNED-IN MOBILE">
-    <mxGraphModel dx="2232" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uhfoESPZrVramuS0g4Nw-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="660" y="60" width="380" height="760" as="geometry" />
+          <mxGeometry x="660" y="10" width="380" height="880" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
           <mxGeometry x="980" y="180" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
-          <mxGeometry x="740" y="200" width="220" height="180" as="geometry" />
+          <mxGeometry x="740" y="170" width="220" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-4" value="SKATER NAME" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="740" y="180" width="70" height="20" as="geometry" />
+          <mxGeometry x="740" y="150" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-5" value="COACH" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="815" y="180" width="70" height="20" as="geometry" />
+          <mxGeometry x="815" y="150" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-6" value="WP NO." style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="890" y="180" width="70" height="20" as="geometry" />
+          <mxGeometry x="890" y="150" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-7" value="SKATER IMG" style="whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="740" y="210" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uhfoESPZrVramuS0g4Nw-18" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="740" y="380" width="220" height="30" as="geometry" />
+          <mxGeometry x="740" y="370" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-1" value="PATCHES REMAINING" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="740" y="422" width="220" height="10" as="geometry" />
@@ -796,10 +796,10 @@
           <mxGeometry x="740" y="482" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-5" value="21 SEPTEMBER 2023" style="whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="740" y="632" width="220" height="28" as="geometry" />
+          <mxGeometry x="740" y="650" width="220" height="28" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-6" value="EXPIRES" style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="740" y="622" width="220" height="10" as="geometry" />
+          <mxGeometry x="740" y="640" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-7" value="29 MARCH 2023" style="whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="740" y="532" width="220" height="27" as="geometry" />
@@ -808,10 +808,10 @@
           <mxGeometry x="740" y="522" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-9" value="ID: 1" style="whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="740" y="582" width="220" height="27" as="geometry" />
+          <mxGeometry x="740" y="590" width="220" height="27" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-10" value="PATCH CARD NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="740" y="572" width="220" height="10" as="geometry" />
+          <mxGeometry x="740" y="580" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-11" value="PURCHASE INV NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="850" y="472" width="110" height="10" as="geometry" />
@@ -820,10 +820,7 @@
           <mxGeometry x="850" y="482" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-18" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="740" y="670" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jtpUBaeSAMmQ8fUlPCvD-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.options;fillColor=#222222;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="190" width="12" height="20" as="geometry" />
+          <mxGeometry x="740" y="700" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
