@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T19:26:59.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="K4Xz5bmcZtksBbVYhlqJ" version="22.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:27:09.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ayh91hiRoaJq9xtnz-4e" version="22.1.2" type="github" pages="9">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
     <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_89JdAcQdwftwHwftety" name="SKATER SIGNED-IN HOME PAGE MOBILE">
-    <mxGraphModel dx="1217" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1116" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -522,7 +522,7 @@
           <mxGeometry x="990" y="17" width="380" height="810" as="geometry" />
         </mxCell>
         <mxCell id="ue3CkY_gUmFLmaMpg0p_-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="160" width="20" height="20" as="geometry" />
+          <mxGeometry x="1310" y="150" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jwu72my-hOGduwMswJnl-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
           <mxGeometry x="1070" y="160" width="220" height="200" as="geometry" />
