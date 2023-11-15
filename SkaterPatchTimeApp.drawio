@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T19:31:13.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RYG2eq0wWkYAOs9qL3dB" version="22.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:35:39.840Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="t715fjiFxpKe7YA134c8" version="22.1.2" type="github" pages="10">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
     <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PsdhEJQ98D8s4ZCPDZo4-1" value="LANDING PAGE/REGISTER/SIGN-IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" parent="1" vertex="1">
+        <mxCell id="PsdhEJQ98D8s4ZCPDZo4-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry width="1600" height="900" as="geometry" />
         </mxCell>
         <mxCell id="PsdhEJQ98D8s4ZCPDZo4-25" value="" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="100" y="90" width="730" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="PsdhEJQ98D8s4ZCPDZo4-24" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;WELCOME TO SKATERPATCH&lt;br&gt;&lt;br&gt;PLEASE SIGN IN OR REGOSTER AS A NEW SKATER&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;" parent="1" vertex="1">
+        <mxCell id="PsdhEJQ98D8s4ZCPDZo4-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;WELCOME TO SKATERPATCH&lt;br&gt;&lt;br&gt;PLEASE SIGN IN OR REGOSTER AS A NEW SKATER&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="120" y="190" width="690" height="180" as="geometry" />
         </mxCell>
         <mxCell id="PsdhEJQ98D8s4ZCPDZo4-26" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=none;fillColor=#ffffff;" parent="1" vertex="1">
@@ -213,13 +213,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fauHg8BjW_xHKOsYxEgr-1" value="LANDING PAGE/REGISTER/SIGN-IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" vertex="1" parent="1">
+        <mxCell id="fauHg8BjW_xHKOsYxEgr-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" vertex="1" parent="1">
           <mxGeometry width="1600" height="900" as="geometry" />
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-2" value="" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="730" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="fauHg8BjW_xHKOsYxEgr-3" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;WELCOME {USER}&lt;br&gt;&lt;br&gt;PLEASE ENTER YOUR SKATER DETAILS&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="fauHg8BjW_xHKOsYxEgr-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;WELCOME {USER}&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;PLEASE ENTER YOUR SKATER DETAILS&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="690" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
@@ -227,22 +227,22 @@
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-7" value="Skater Name" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="40" as="offset" />
+            <mxPoint x="74" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-8" value="{john}" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="60" as="offset" />
+            <mxPoint x="74" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-9" value="Skater Surname" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="95" as="offset" />
+            <mxPoint x="74" y="110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-10" value="{doe}&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="115" as="offset" />
+            <mxPoint x="74" y="130" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
@@ -252,67 +252,67 @@
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-13" value="SUBMIT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
-            <mxPoint x="10" y="-160" as="offset" />
+            <mxPoint x="70" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-15" value="Coach Name" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="213" as="offset" />
+            <mxPoint x="74" y="240" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-16" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="233" as="offset" />
+            <mxPoint x="74" y="260" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-17" value="Contact - Skater" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="273" as="offset" />
+            <mxPoint x="74" y="300" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-18" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="293" as="offset" />
+            <mxPoint x="74" y="320" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-19" value="Contact - Parent/Guardian" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="330" as="offset" />
+            <mxPoint x="74" y="370" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-20" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="350" as="offset" />
+            <mxPoint x="74" y="390" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-21" value="Date of Birth" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="400" as="offset" />
+            <mxPoint x="74" y="440" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-22" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="420" as="offset" />
+            <mxPoint x="74" y="460" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-86" value="Western Province Membership Number" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="154" as="offset" />
+            <mxPoint x="74" y="180" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fauHg8BjW_xHKOsYxEgr-87" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="174" as="offset" />
+            <mxPoint x="74" y="200" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OSfjJABYj_8Nc-iQV1B6-36" value="Upload Image" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="295" height="20" relative="1" as="geometry">
-            <mxPoint x="10" y="470" as="offset" />
+            <mxPoint x="74" y="500" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OSfjJABYj_8Nc-iQV1B6-37" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="fauHg8BjW_xHKOsYxEgr-4">
           <mxGeometry width="442.5" height="25" relative="1" as="geometry">
-            <mxPoint x="10" y="490" as="offset" />
+            <mxPoint x="74" y="520" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -394,7 +394,7 @@
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-3" value="" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-1">
           <mxGeometry x="100" y="90" width="730" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="PEg8DE_EBH0NYNgaO_wX-4" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;WELCOME {USER}&lt;br&gt;&lt;br&gt;PLEASE ENTER YOUR ADMIN&amp;nbsp;DETAILS&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-1">
+        <mxCell id="PEg8DE_EBH0NYNgaO_wX-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;WELCOME {USER}&lt;br&gt;&lt;br&gt;PLEASE ENTER YOUR ADMIN&amp;nbsp;DETAILS&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-1">
           <mxGeometry x="120" y="190" width="690" height="180" as="geometry" />
         </mxCell>
         <mxCell id="PEg8DE_EBH0NYNgaO_wX-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="PEg8DE_EBH0NYNgaO_wX-1">
