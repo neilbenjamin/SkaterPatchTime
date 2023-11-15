@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T22:42:18.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jQ4_mdTIeZhdAcoqAjHB" version="22.1.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-11-15T22:42:56.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XSN8O1mIWRFzwkZhILqI" version="22.1.2" type="github" pages="19">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -802,7 +802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN SIGNED-IN MOBILE">
-    <mxGraphModel dx="998" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="831" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -877,7 +877,7 @@
             <mxPoint x="850" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I5xRv3jkaCeFP7fPtstu-3" value="UPDATE PATCH INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#0066CC;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="1">
+        <mxCell id="I5xRv3jkaCeFP7fPtstu-3" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#0066CC;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="710" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vj2h85NJw7zI5zOjc_Q_-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.most_viewed;pointerEvents=1" vertex="1" parent="1">
