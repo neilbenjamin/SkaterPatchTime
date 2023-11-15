@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T18:28:03.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7YauH_SwON3hj6onxh7d" version="22.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-15T18:33:36.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Cpgz_TomN1jIeQKkii7e" version="22.1.2" type="github" pages="6">
   <diagram name="SKATER SIGNED IN HOME PAGE DESKTOP" id="HCEqrU8igU5yNVbFq01C">
     <mxGraphModel dx="3826" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -305,7 +305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
-    <mxGraphModel dx="1575" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2678" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,6 +429,20 @@
           <mxGeometry width="511" height="10" relative="1" as="geometry">
             <mxPoint x="20" y="268" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cstXw_fMyLSabRQClBFk" name="SKATERPATCHTIME SIGN IN MOBILE">
+    <mxGraphModel dx="1275" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nOPJcNYl-wG0937G4Sr3-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="380" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="JGe_yi7P02y8x0LT7j2n-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;WELCOME TO SKATERPATCH&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;PLEASE SIGN IN OR REGOSTER AS A NEW SKATER&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fontColor=#E6E6E6;fillColor=#4D4D4D;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
