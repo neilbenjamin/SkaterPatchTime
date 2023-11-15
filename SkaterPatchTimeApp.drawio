@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T21:53:56.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HJCsGhfBWZy9fPoNzgkI" version="22.1.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-11-15T21:55:23.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PRyCzYkrHe6UlzDskjx6" version="22.1.2" type="github" pages="15">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -797,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN SIGNED-IN MOBILE">
-    <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -877,6 +877,9 @@
         </mxCell>
         <mxCell id="I5xRv3jkaCeFP7fPtstu-3" value="UPDATE PATCH INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#0066CC;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="710" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj2h85NJw7zI5zOjc_Q_-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.most_viewed;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="150" width="28.2" height="22.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
