@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T21:49:51.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="300V8EoWUkPNh5h_2fjP" version="22.1.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-11-15T21:53:56.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HJCsGhfBWZy9fPoNzgkI" version="22.1.2" type="github" pages="15">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATER SIGN IN DESKTOP">
     <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -720,18 +720,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RkChoPOBzC0dZ9-PY_Tz" name="ADMIN SIGNED-IN DESKTOP">
-    <mxGraphModel dx="2267" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3118" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lExbO_Z6TUVmcX0FvSxB-1" value="HOME/LANDING PAGE/USER - SKATER" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" parent="1" vertex="1">
+        <mxCell id="lExbO_Z6TUVmcX0FvSxB-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=15;labelBackgroundColor=none;whiteSpace=wrap;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry width="1600" height="900" as="geometry" />
         </mxCell>
         <mxCell id="lExbO_Z6TUVmcX0FvSxB-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
           <mxGeometry x="1530" y="55" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lExbO_Z6TUVmcX0FvSxB-5" value="LOG-OUT - ACCOUNT DETAILS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#4D4D4D;mainText=;buttonStyle=round;fontSize=12;fontStyle=1;fillColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="55" width="120" height="30" as="geometry" />
+          <mxGeometry x="1310" y="55" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lExbO_Z6TUVmcX0FvSxB-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
           <mxGeometry x="100" y="220" width="550" height="550" as="geometry" />
@@ -790,11 +790,14 @@
         <mxCell id="xJ86ZHfwx5cUFwiK-VfG-1" value="DELETE" style="whiteSpace=wrap;html=1;fontSize=21;fontStyle=0;fillColor=#CC0000;strokeColor=#b85450;fontColor=#FAFAFA;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="780" width="260" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="m2Rq87ww5T0UQ1jDFqcQ-1" value="HOME" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="100" y="55" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN SIGNED-IN MOBILE">
-    <mxGraphModel dx="2267" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
