@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T19:38:00.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UkIx-qfGKFtOfmzeKbi6" version="22.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:43:46.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zIa10rT24nWSI3nhlciJ" version="22.1.2" type="github" pages="10">
   <diagram id="4FXU5eqgcz2ON_E3J596" name="SKATERPATCHTIME SIGN IN DESKTOP">
     <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -604,27 +604,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_89JdAcQdwftwHwftety" name="SKATER SIGNED-IN HOME PAGE MOBILE">
-    <mxGraphModel dx="2678" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ue3CkY_gUmFLmaMpg0p_-3" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="990" y="17" width="380" height="810" as="geometry" />
+          <mxGeometry x="990" width="380" height="827" as="geometry" />
         </mxCell>
         <mxCell id="ue3CkY_gUmFLmaMpg0p_-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
           <mxGeometry x="1310" y="150" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jwu72my-hOGduwMswJnl-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="160" width="220" height="200" as="geometry" />
+          <mxGeometry x="1070" y="150" width="220" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zZmw2Le10C9-1KDYrhUc-1" value="SKATER NAME" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="140" width="70" height="20" as="geometry" />
+          <mxGeometry x="1070" y="130" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zZmw2Le10C9-1KDYrhUc-7" value="COACH" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="1145" y="140" width="70" height="20" as="geometry" />
+          <mxGeometry x="1145" y="130" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zZmw2Le10C9-1KDYrhUc-8" value="WP NO." style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="140" width="70" height="20" as="geometry" />
+          <mxGeometry x="1220" y="130" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zZmw2Le10C9-1KDYrhUc-9" value="SKATER IMG" style="whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="1070" y="200" width="70" height="20" as="geometry" />
@@ -660,7 +660,7 @@
           <mxGeometry x="1070" y="590" width="220" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IhhQu4BCyFMsvsEwtCy0-3" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="360" width="220" height="30" as="geometry" />
+          <mxGeometry x="1070" y="350" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="48D-6b_hcBixsqO1-a0t-1" value="PURCHASE INV NO." style="whiteSpace=wrap;html=1;fontSize=7;fillColor=#4D4D4D;fontColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1180" y="467" width="110" height="10" as="geometry" />
@@ -755,7 +755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO9E-QQxoHjHtettJ5ta" name="ADMIN SIGNED-IN MOBILE">
-    <mxGraphModel dx="1913" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -821,6 +821,27 @@
         </mxCell>
         <mxCell id="RZ8jCcjg-CZRsoFbrS3F-18" value="UPDATE SKATER INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="740" y="710" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RuHGZyk2UZY7Lj0Rcg2C-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="237" width="200" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="RuHGZyk2UZY7Lj0Rcg2C-3" value="Sign Out" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="RuHGZyk2UZY7Lj0Rcg2C-2">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuHGZyk2UZY7Lj0Rcg2C-4" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="RuHGZyk2UZY7Lj0Rcg2C-2">
+          <mxGeometry width="180" height="10" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuHGZyk2UZY7Lj0Rcg2C-15" value="UPDATE ADMIN INFO" style="whiteSpace=wrap;html=1;fontSize=8;fillColor=#4D4D4D;fontColor=#FAFAFA;" vertex="1" parent="RuHGZyk2UZY7Lj0Rcg2C-2">
+          <mxGeometry x="20" y="93" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RuHGZyk2UZY7Lj0Rcg2C-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=0.203;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uhfoESPZrVramuS0g4Nw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="323" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
